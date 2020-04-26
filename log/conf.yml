@@ -1,0 +1,4 @@
+log:
+        encoding: AES-CBC
+        key-size: 128bit
+        apply-to-all-encrypted: true

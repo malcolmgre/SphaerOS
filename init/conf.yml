@@ -1,0 +1,6 @@
+components:
+        - core-services
+        - main-kernel
+        - net
+        - neural-pool
+        - usr

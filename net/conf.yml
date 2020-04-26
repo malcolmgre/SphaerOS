@@ -1,0 +1,3 @@
+net:
+        inbound: true
+        outbound: false
